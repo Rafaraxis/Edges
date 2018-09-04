@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using Emgu;
 using Emgu.CV;
 using Emgu.CV.Structure;
-
+//edges
 namespace Comoustedesquieran
 {
     public partial class Form1 : Form
